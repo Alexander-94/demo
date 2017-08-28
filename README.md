@@ -1,2 +1,2 @@
-# demo
+# demo-rep
 demo Java code 
