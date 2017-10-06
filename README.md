@@ -1,2 +1,2 @@
-# demo-rep
-demo Java code 
+# simple-java-snake
+simple-java-snake project
